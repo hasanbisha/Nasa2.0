@@ -1,0 +1,267 @@
+{
+  "Alabama": {
+    "cities": {    
+      "Huntsville":	"35801/35816"
+    }
+  },
+  "Alaska": {
+    "cities": {    
+      "Anchorage":	"99501/99524"
+    }
+  },
+  "Arizona": {
+    "cities": {
+      "Phoenix":	"85001/85055"
+    }
+  },
+  "Arkansas": {
+    "cities": {
+      "Little Rock":	"72201/72217"
+    }
+  },
+  "California":{
+    "cities": {
+      "Sacramento": "94203/94209",
+      "Los Angeles": "90001/90089",
+      "Beverly Hills":	"90209/90213"
+    }
+  },
+  "Colorado": {
+    "cities": {    
+      "Denver":	"80201/80239"
+    }
+  },
+  "Conneticut": {
+    "cities": {    
+      "Hartford":	"06101/06112"
+    }
+  },
+  "Deleware": {
+    "cities": {    
+      "Dover": "19901/19905"
+    }
+  },
+  "District of Columbia": {
+    "cities": {    
+      "Washington":	"20001/20020"
+    }
+  }	,
+  "Florida":{
+    "cities": {
+      "Pensacola": "32501/32509",
+      "Miami": "33124/33190",
+      "Orlando": "32801/32837"
+    }
+  },
+  
+  "Georgia": {
+    "cities": {    
+      "Atlanta":	"30301/30381"
+    }
+  },	
+  "Hawaii": {
+    "cities": {    
+      "Honolulu": "96801/96830"
+    }
+  },
+  "Idaho": {
+    "cities": {    
+      "Montpelier": "83254"
+    }
+  },
+  "Illinois": {
+    "cities": {
+      "Chicago": "60601/60641",
+      "Springfield":	"62701/62709"
+    }
+  },	
+
+  "Indiana": {
+    "cities": {    
+      "Indianapolis":	"46201/46209"
+    }
+  },
+  "Iowa": {
+    "cities": {
+      "Davenport": "52801/52809",
+      "Des Moines": "50301/50323"	
+    }
+  },
+  
+  "Kansas": {
+    "cities": {
+      "Wichita":	"67201/67221"
+    }
+  },	
+  "Kentucky": {
+    "cities": {
+      "Hazard":	"41701/41702"
+    }
+  },	
+  "Lousiana": {
+    "cities": {
+      "New Orleans":	"70112/70119"
+    }
+  },	
+  "Maine": {
+    "cities": {
+      "Freeport": "04032/04034"
+    }
+  },	
+  "Maryland": {
+    "cities": {
+      "Baltimore": "21201/21237"
+    }
+  },	
+  "Massachusetts": {
+    "cities": {
+      "Boston":	"02101/02137"
+    }
+  },
+  "Michigan": {
+    "cities": {
+      "Coldwater": "49036",
+      "Gaylord": "49734/49735"
+    }
+  },
+  "Minnesota": {
+    "cities": {    
+      "Duluth":	"55801/55808"
+    }
+  },
+  "Mississippo": {
+    "cities": {    
+      "Biloxi":	"39530/39535"
+    }
+  },
+  "Missouri": {
+    "cities": {    
+      "St. Louis":	"63101/63141"
+    }
+  },
+  "Montana": {
+    "cities": {    
+      "Laurel":	"59044"
+    }
+  },
+  "Nebraska": {
+    "cities": {    
+      "Hastings":	"68901/68902"
+    }
+  },
+  "Nevada": {
+    "cities": {    
+      "Reno":	"89501/89513"
+    }
+  },
+  "New Hampshire": {
+    "cities": {    
+      "Ashland": "03217"
+    }
+  },
+  "New Jersey": {
+    "cities": {    
+      "Livingston":	"07039"
+    }
+  },
+  "New Mexico": {
+    "cities": {    
+      "Santa Fe": "87500/87506"
+    }
+  },
+  "New York": {
+    "cities": {    
+      "New York":	"10001/10048"
+    }
+  },
+  "North Carolina": {
+    "cities": {    
+      "Oxford":	"27565"
+    }
+  },
+  "North Dakota": {
+    "cities": {    
+      "Walhalla":	"58282"
+    }
+  },
+  "Ohio": {
+    "cities": {    
+      "Cleveland":	"44101/44179"
+    }
+  },
+  "Oklahoma": {
+    "cities": {    
+      "Tulsa":	"74101/74110"
+    }
+  },
+  "Oregon": {
+    "cities": {    
+      "Portland":	"97201/97225"
+    }
+  },
+  "Pennsylvania": {
+    "cities": {    
+      "Pittsburgh":	"15201/15244"
+    }
+  },
+  "Rhode Island": {
+    "cities": {    
+      "Newport":	"02840/02841"
+    }
+  },
+  "South Carolina": {
+    "cities": {    
+      "Camden":	"29020"
+    }
+  },
+  "South Dakota": {
+    "cities": {    
+      "Aberdeen":	"57401/57402"
+    }
+  },
+  "Tennessee": {
+    "cities": {    
+      "Nashville":	"37201/37222"
+    }
+  },
+  "Texas": {
+    "cities": {    
+      "Austin":	"78701/78705"
+    }
+  },
+  "Utah": {
+    "cities": {    
+      "Logan":	"84321/84323"
+    }
+  },
+  "Vermont": {
+    "cities": {    
+      "Killington":	"05751"
+    }
+  },
+  "Virginia": {
+    "cities": {    
+      "Altavista":	"24517"
+    }
+  },
+  "Washington": {
+    "cities": {    
+      "Bellevue":	"98004/98009"
+    }
+  },
+  "West Virginia": {
+    "cities": {    
+      "Beaver":	"25813"
+    }
+  },
+  "Wisconsin": {
+    "cities": {    
+      "Milwaukee":	"53201/53228"
+    }
+  },
+  "Wyoming": {
+    "cities": {    
+      "Pinedale":	"82941"
+    }
+  }
+}
